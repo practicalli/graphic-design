@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="914.75623"
+   height="1044.082"
+   viewBox="0 0 242.02925 276.2467"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="software-engineering-general-workflow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66368547"
+     inkscape:cx="378.94456"
+     inkscape:cy="500.23696"
+     inkscape:window-width="3440"
+     inkscape:window-height="1415"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.6647748,-15.780194)">
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.36617;stroke-linecap:round"
+       id="rect846"
+       width="114.75336"
+       height="58.917713"
+       x="57.447067"
+       y="19.119144"
+       rx="6.6409388"
+       ry="9.1404791" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="6.1041079"
+       y="35.771824"
+       id="text3908"><tspan
+         sodipodi:role="line"
+         id="tspan3906"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="6.1041079"
+         y="35.771824">Big Picture</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="7.5284858"
+       y="108.51881"
+       id="text3908-35"><tspan
+         sodipodi:role="line"
+         id="tspan3906-62"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="7.5284858"
+         y="108.51881">Blueprints</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="86.316841"
+       y="30.445084"
+       id="text3908-3"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="86.316841"
+         y="30.445084">Design Storm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="65.658661"
+       y="41.382263"
+       id="text3908-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="65.658661"
+         y="41.382263">Personnas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="114.14797"
+       y="41.443371"
+       id="text3908-3-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="114.14797"
+         y="41.443371">Interfaces</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="76.414085"
+       y="51.86607"
+       id="text3908-3-7-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="76.414085"
+         y="51.86607">Conceptual Model</tspan></text>
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.309128;stroke-linecap:round"
+       id="rect846-6"
+       width="114.8104"
+       height="41.970119"
+       x="57.418549"
+       y="84.873268"
+       rx="28.123064"
+       ry="25.130526" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="70.521736"
+       y="96.354927"
+       id="text3908-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="70.521736"
+         y="96.354927">Initial Architecture(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="95.425995"
+       y="107.64309"
+       id="text3908-3-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="95.425995"
+         y="107.64309">Tools</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="124.76534"
+       y="106.78298"
+       id="text3908-3-7-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="124.76534"
+         y="106.78298">Libraries</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="76.414085"
+       y="120.25276"
+       id="text3908-3-7-9-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3-0-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="76.414085"
+         y="120.25276">Design Challenges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="66.306725"
+       y="107.96407"
+       id="text3908-3-7-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="66.306725"
+         y="107.96407">Skills</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="9.5092392"
+       y="146.69769"
+       id="text3908-35-7"><tspan
+         sodipodi:role="line"
+         id="tspan3906-62-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="9.5092392"
+         y="146.69769">Domain</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="9.5092392"
+         y="157.28104"
+         id="tspan35049">Model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="76.809242"
+       y="64.715736"
+       id="text3908-3-7-9-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="76.809242"
+         y="64.715736">Project Rationale</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="78.590431"
+       y="76.338783"
+       id="text3908-3-7-9-6-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-5-3-0-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="78.590431"
+         y="76.338783">Value Timeframe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="63.532372"
+       y="145.82713"
+       id="text3908-3-2-9"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="63.532372"
+         y="145.82713">Exploration (REPL)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="28.96302"
+       y="184.61191"
+       id="text3908-3-2-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="28.96302"
+         y="184.61191">Tests /</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="28.96302"
+         y="195.19525"
+         id="tspan49318">Cement Design</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="111.83329"
+       y="181.53529"
+       id="text3908-3-2-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="111.83329"
+         y="181.53529">Key Algorithms &amp; </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="111.83329"
+         y="192.11864"
+         id="tspan46415">Data structures</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="76.140205"
+       y="164.46803"
+       id="text3908-3-2-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="76.140205"
+         y="164.46803">Specifications</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 154.61799,147.35898 c 3.46412,0.53985 6.67828,2.48451 8.79622,5.2746 0.95931,1.24476 1.68567,2.65733 2.20013,4.14162 0.7959,-0.33805 1.58666,-0.68517 2.3856,-1.01374 0.19465,-0.12985 0.4791,-0.0301 0.53316,0.21109 0.004,0.19647 -0.10438,0.37278 -0.17357,0.55812 -0.89921,1.96548 -1.79065,3.93613 -2.68596,5.9042 -0.34882,0.69529 -0.59073,1.44863 -1.01196,2.10691 -0.0737,0.007 -0.22316,0.0213 -0.29684,0.0283 -2.21862,-1.64048 -4.39335,-3.34692 -6.58743,-5.02146 -0.32414,-0.14105 -0.30264,-0.68653 0.0786,-0.71271 0.83396,-0.19893 1.68611,-0.313 2.52568,-0.4895 -1.06234,-2.7781 -3.58,-4.95905 -6.51074,-5.5209 -0.27538,-0.0769 -0.80963,-0.0592 -0.73677,-0.47715 0.30891,-1.4906 0.68288,-2.96963 1.01292,-4.4555 0.0472,-0.25038 0.14512,-0.60506 0.47091,-0.53383 z"
+       id="path4259"
+       style="stroke-width:0.155347" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 60.360371,153.46802 c 0.22485,-0.0819 0.4154,0.14902 0.35799,0.36659 -0.18046,2.23188 -0.39099,4.46154 -0.57778,6.69401 -0.0312,0.19487 -0.004,0.46662 -0.23615,0.55301 -0.23456,0.0759 -0.35996,-0.16104 -0.49798,-0.29331 -0.39322,-0.44246 -0.78399,-0.88641 -1.18058,-1.32347 -1.29544,1.93542 -1.75055,4.42808 -1.13921,6.68341 0.0919,0.36296 0.2444,0.70813 0.33434,1.07432 -0.0485,0.23211 -0.30887,0.28448 -0.4905,0.38131 -1.10417,0.4522 -2.19408,0.94171 -3.30312,1.38488 -0.26052,0.11521 -0.35734,-0.18933 -0.42977,-0.36924 -0.86236,-2.30958 -0.98235,-4.87526 -0.41753,-7.2697 0.39801,-1.72633 1.18368,-3.3434 2.19903,-4.78759 -0.56604,-0.39112 -1.13814,-0.77247 -1.68816,-1.18211 -0.20082,-0.10845 -0.11294,-0.33406 -0.0843,-0.50058 2.3782,-0.50044 4.76946,-0.94479 7.15366,-1.41151 z"
+       id="path4277"
+       style="stroke-width:0.127264" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 108.81941,197.61868 c 0.23759,-0.21121 0.57873,-0.69071 0.89464,-0.30511 1.07316,1.10398 2.1046,2.24988 3.15963,3.37284 0.16879,0.14804 0.33405,0.43516 0.11209,0.62525 -3.83828,3.96491 -9.78519,5.83497 -15.179795,4.52357 -0.23618,0.90178 -0.43401,1.81656 -0.697417,2.71253 -0.0355,0.34263 -0.539687,0.44311 -0.688667,0.13152 -1.513571,-2.54275 -3.005032,-5.09898 -4.503053,-7.65004 -0.19946,-0.23628 -0.13022,-0.60621 0.191507,-0.67816 2.807225,-1.00848 5.62334,-1.99447 8.438435,-2.97919 0.28887,-0.18306 0.69489,0.11564 0.53688,0.44091 -0.38782,0.85556 -0.8374,1.68275 -1.235907,2.53576 3.200717,0.6006 6.631957,-0.48032 8.971657,-2.72987 z"
+       id="path4287"
+       style="stroke-width:0.163838" />
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.202315;stroke-linecap:round"
+       id="rect54418"
+       width="67.572083"
+       height="27.154032"
+       x="25.682178"
+       y="173.82861"
+       rx="5.5548282"
+       ry="6.3893795" />
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.264583;stroke-linecap:round"
+       id="rect54420"
+       width="79.040268"
+       height="28.304335"
+       x="108.16302"
+       y="170.96861"
+       rx="6.6409359"
+       ry="9.140481" />
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.264583;stroke-linecap:round"
+       id="rect54422"
+       width="90.17955"
+       height="14.707867"
+       x="55.227699"
+       y="134.8833"
+       rx="6.6409359"
+       ry="9.140481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="8.1148834"
+       y="244.09285"
+       id="text3908-35-7-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="8.1148834"
+         y="244.09285"
+         id="tspan35049-4">Service</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="8.1148834"
+         y="254.67619"
+         id="tspan54560">Components</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="62.72683"
+       y="237.68024"
+       id="text3908-3-2-9-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="62.72683"
+         y="237.68024">Persistence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="67.425316"
+       y="274.75647"
+       id="text3908-3-2-9-9-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-3-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="67.425316"
+         y="274.75647">Performance testing (system)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="114.99436"
+       y="238.15273"
+       id="text3908-3-2-9-9-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan3906-6-6-7-3-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="114.99436"
+         y="238.15273">Logging / Monitoring</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+       x="65.222633"
+       y="250.24594"
+       id="text3908-3-2-9-9-7-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.264583"
+         x="65.222633"
+         y="250.24594"
+         id="tspan83036">Deployment workflow (CI / CD)</tspan></text>
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.264583;stroke-linecap:round"
+       id="rect80558"
+       width="141.97704"
+       height="64.146614"
+       x="59.878723"
+       y="225.02597"
+       rx="6.6409359"
+       ry="9.140481" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.0992px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.534348"
+       x="82.929955"
+       y="-221.51669"
+       id="text3908-35-0"
+       transform="rotate(90)"><tspan
+         sodipodi:role="line"
+         id="tspan3906-62-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';stroke-width:0.534348"
+         x="82.929955"
+         y="-221.51669">Documentation</tspan></text>
+    <rect
+       style="fill:#aca793;fill-opacity:0;stroke:#cccccc;stroke-width:0.264583;stroke-linecap:round"
+       id="rect86548"
+       width="40.817642"
+       height="271.74878"
+       x="203.62743"
+       y="18.029152"
+       rx="6.6409359"
+       ry="9.140481" />
+  </g>
+</svg>
