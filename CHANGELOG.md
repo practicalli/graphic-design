@@ -1,5 +1,9 @@
 # Unreleased
 
+## Added
+
+- feat(cycling): 🖼️ ridewithgps elevation example of toys hill
+
 ## Changed
 
 - edtior: emacs structure terminology image
