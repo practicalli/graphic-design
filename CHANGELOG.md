@@ -3,6 +3,8 @@
 ## Added
 
 - feat(cycling): 🖼️ ridewithgps elevation example of toys hill
+- feat(cycling): 🖼️ ridewithgps collections rocket cafe rides
+
 
 ## Changed
 
